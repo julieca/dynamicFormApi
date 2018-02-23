@@ -1,0 +1,5 @@
+C:\julieca\medico-his\src\Medico.Service.DynamicFormMongoDB
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Medico.Service.DynamicFormMongoDB
+--content-root=C:\julieca\medico-his\src\Medico.Service.DynamicFormMongoDB
+--file=

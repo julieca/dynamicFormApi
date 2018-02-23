@@ -1,0 +1,11 @@
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\bin\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.deps.json
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\bin\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.runtimeconfig.json
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\bin\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.runtimeconfig.dev.json
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\bin\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.dll
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.csprojResolveAssemblyReference.cache
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.csproj.CoreCompileInputs.cache
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.AssemblyInfoInputs.cache
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.AssemblyInfo.cs
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\bin\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.pdb
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.dll
+C:\julieca\Medico.Services.DynamicFormMongoDB\Medico.Services.DynamicFormMongoDB\obj\Debug\netcoreapp2.0\Medico.Services.DynamicFormMongoDB.pdb
